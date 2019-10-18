@@ -1,0 +1,47 @@
+logs/
+node_modules/
+testresults/
+tempkey.rsa
+
+#######
+
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+#.vscode # There is significant configuration in .vscode, will not ignore this directory for the moment
+
+# Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Ignore target folder created by karate
+[Tt]arget/
+
+# Visual Studio 2015
+.vs/
