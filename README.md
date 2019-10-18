@@ -1,7 +1,6 @@
 # SmartRunwayAPI
 **************
-
-Tech Stack - .NET CORE APIs
+This is to simulate an airport's runway and schedule the flights for landing and take offs. 
 
 Middlewares used
 ================
